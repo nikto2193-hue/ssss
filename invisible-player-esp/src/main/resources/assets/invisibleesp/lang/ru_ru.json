@@ -1,0 +1,18 @@
+{
+  "category.invisibleesp": "Invisible Player ESP",
+  "key.invisibleesp.open_menu": "Открыть меню настроек",
+  "key.invisibleesp.toggle": "Включить/выключить ESP",
+
+  "message.invisibleesp.enabled": "Invisible Player ESP: ВКЛ",
+  "message.invisibleesp.disabled": "Invisible Player ESP: ВЫКЛ",
+
+  "gui.invisibleesp.title": "Invisible Player ESP",
+  "gui.invisibleesp.esp": "ESP: %s",
+  "gui.invisibleesp.player_name": "Ник игрока: %s",
+  "gui.invisibleesp.through_walls": "Сквозь стены: %s",
+  "gui.invisibleesp.render_distance": "Дальность: %s бл.",
+  "gui.invisibleesp.brightness": "Яркость: %s%%",
+  "gui.invisibleesp.color_red": "Цвет ESP - красный: %s",
+  "gui.invisibleesp.color_green": "Цвет ESP - зелёный: %s",
+  "gui.invisibleesp.color_blue": "Цвет ESP - синий: %s"
+}

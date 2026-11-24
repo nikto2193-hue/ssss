@@ -1,0 +1,18 @@
+{
+  "category.invisibleesp": "Invisible Player ESP",
+  "key.invisibleesp.open_menu": "Open settings menu",
+  "key.invisibleesp.toggle": "Toggle ESP",
+
+  "message.invisibleesp.enabled": "Invisible Player ESP: ON",
+  "message.invisibleesp.disabled": "Invisible Player ESP: OFF",
+
+  "gui.invisibleesp.title": "Invisible Player ESP",
+  "gui.invisibleesp.esp": "ESP: %s",
+  "gui.invisibleesp.player_name": "Player Name: %s",
+  "gui.invisibleesp.through_walls": "Through Walls: %s",
+  "gui.invisibleesp.render_distance": "Render Distance: %s blocks",
+  "gui.invisibleesp.brightness": "Brightness: %s%%",
+  "gui.invisibleesp.color_red": "ESP Color - Red: %s",
+  "gui.invisibleesp.color_green": "ESP Color - Green: %s",
+  "gui.invisibleesp.color_blue": "ESP Color - Blue: %s"
+}

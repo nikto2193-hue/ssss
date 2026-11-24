@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "invisibleesp",
+  "version": "${version}",
+  "name": "Invisible Player ESP",
+  "description": "Client-side mod that highlights players under the Invisibility effect with a configurable outline that is visible through walls.",
+  "authors": [
+    "Invisible ESP"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.invisibleesp.InvisibleEspClient"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "invisibleesp.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
